@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @siddharthyadav99
-- 👀 I’m interested in Analytics
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Analytics
 - 📫 How to reach me ... sid17yadav9@gmail.com
 
 <!---
